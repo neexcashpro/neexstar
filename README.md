@@ -1,15 +1,11 @@
-Official Links
-==============
 
- - Website : https://neexstar.com/
 
- - Blog : https://www.neexstarsocialcommunity.org/
+Migrate from https://github.com/neexstarproject/neexstar
+Released: Feb 9/2020 (Pre NEEXC)
+Prepare for SWAP ( NEEX to NEEXC )
 
- - Twitter : https://twitter.com/Neexstar
+POW System.
+Custom.
+Scrypt.
 
- - Facebook : https://web.facebook.com/Neexstar?_rdc=1&_rdr
-
- - Medium : https://medium.com/@neexstarecosystem
-
- - Discord : https://discordapp.com/invite/6eRPDNK
 
